@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications&center=true&width=600&height=50">
+</p>
 
-<!--
-**Naimur131251/Naimur131251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I'm Naimur
+- 💻 I'm currently learning Full-Stack Web Development
+- ⚛️ Working with React.js, Next.js and TypeScript
+- 🖥️ Exploring Node.js, Express.js and REST APIs
+- 🗄️ Learning MongoDB and PostgreSQL
+- 🚀 Building real-world web applications
+- 🌱 Currently improving my JavaScript and TypeScript skills
+- 💼 Interested in Freelancing and Remote Opportunities
+- 🎯 My goal is to become a Professional Full-Stack Developer
+
+
+</br>
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-naimur-rahman-114883360/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+
+  <a href="https://github.com/Naimur131251">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+</p>
+
+
+</br>
+
+
+## 🛠️ Technology Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+
+</br>
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naimur131251&show_icons=true&theme=tokyonight" />
+</p>
+
+
+</br>
+</br>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=naimur131251&theme=tokyonight" />
+</p>
+
+
+<img src="https://komarev.com/ghpvc/?username=naimur131251&label=Profile%20Views&style=flat" />
