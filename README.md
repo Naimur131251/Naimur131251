@@ -1,3 +1,7 @@
+
+<img src="./Naimur_Banner.jpeg" width="100%" alt="Naimur Rahman" style="border-radius: 20px;">
+
+
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications&center=true&width=600&height=50">
