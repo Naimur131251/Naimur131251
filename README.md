@@ -54,16 +54,20 @@
 ### Database
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
 ### Authentication & ORM
-- Better Auth
-- Mongoose
+<div style="display: flex">
+  <img src="https://cdn.simpleicons.org/betterauth" width="50" />
+  <img src="https://cdn.simpleicons.org/mongoose" width="50" />
+</div>
 
 ### AI Engineering
-- AI-Assisted Coding
-- AI Mindset & Engineering
+<div style="display: flex">
+  <img src="https://ai.sitebard.com/icons/svg/cursor.svg" width="50" height="50" alt="AI-Assisted Coding" />
+  <img src="https://cdn.simpleicons.org/githubcopilot" width="50" height="50" alt="AI Mindset & Engineering" />
+</div>
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 
 </br>
