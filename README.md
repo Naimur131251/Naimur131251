@@ -43,24 +43,27 @@
 ## 🛠️ Technology Stack
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 
 ### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 ### Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 ### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+### Authentication & ORM
+- Better Auth
+- Mongoose
+
+### AI Engineering
+- AI-Assisted Coding
+- AI Mindset & Engineering
 
 
 </br>
@@ -68,12 +71,11 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naimur131251&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 
-</br>
 </br>
 
 
