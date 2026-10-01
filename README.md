@@ -19,6 +19,7 @@
 - 🌱 Currently improving my JavaScript and TypeScript skills
 - 💼 Interested in Freelancing and Remote Opportunities
 - 🎯 My goal is to become a Professional Full-Stack Developer
+- Alive streak
 
 
 </br>
