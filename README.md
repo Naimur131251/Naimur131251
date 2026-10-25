@@ -1,7 +1,6 @@
 
 <img src="./Naimur_Banner.jpeg" width="100%" alt="Naimur Rahman" style="border-radius: 20px;">
 
-</br>
 
 <h1 align="center">Hi 👋, I'm Naimur Rahman</h1>
 <p align="center">
