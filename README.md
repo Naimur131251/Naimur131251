@@ -52,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### Database
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ### Authentication & ORM
 <div style="display: flex">
