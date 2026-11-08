@@ -76,9 +76,9 @@
 
 ## 📊 GitHub Statistics
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naimur131251&show_icons=true&theme=tokyonight" />
-</p> -->
+</p>
 
 
 </br>
