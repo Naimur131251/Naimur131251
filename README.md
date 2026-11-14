@@ -34,6 +34,10 @@
   <a href="https://github.com/Naimur131251">
     <img src="https://skillicons.dev/icons?i=github" width="45"/>
   </a>
+
+  <a href="https://www.facebook.com/Naimur.Rahman.456">
+    <img src="https://cdn.simpleicons.org/facebook" width="45" />
+  </a>
 </p>
 
 
