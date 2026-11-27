@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications&center=true&width=600&height=50">
 </p>
 
+</br>
 
 ## 👋 About Me
 
